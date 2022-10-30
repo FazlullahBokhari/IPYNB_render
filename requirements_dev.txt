@@ -8,4 +8,5 @@ pytest
 tox
 black
 flake8
-mypy
+mypy 
+-e .
