@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "IPYNB_render"
 AUTHOR_USER_NAME = "FazlullahBokhari"
-SRC_REPO = "https://github.com/FazlullahBokhari/IPYNB_render.git"  
+SRC_REPO = "IPYNB_render"  
 AUTHOR_EMAIL ="fazlullahb@gmail.com" 
 
 setuptools.setup(
